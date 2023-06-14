@@ -1,3 +1,6 @@
+// Developer: Shawshanck 'Mohammad Mohammadpour'
+// github: https://github.com/shawshanck/infinite-scroll
+
 const imageContainer = document.getElementById('image-container');
 const loader = document.getElementById('loader');
 
@@ -8,8 +11,8 @@ let photosArray = [];
 
 // Unspalash API
 const count = 10;
-// Go to https://unsplash.com/developers and get your API key and inster it in "API-KEY"
-const apiKey = 'API-KEY'
+// Go to https://unsplash.com/developers and get your API key and inster it in "YOUR-API-KEY"
+const apiKey = 'YOUR-API-KEY'
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
 // Check if all images were loaded
