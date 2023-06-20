@@ -14,7 +14,7 @@ Skills that I learned by doing this project:
 * CSS: Responsive layout, and costumizing HTML elements.
 * JavaScript: Using API to fetch images. Creating a "Helper Function to Set Attributes on DOM Elements". Creating "Elements for Links & Photos". Creating a function to load more images by scrolling down near to the buttom of the page and some many functions related to loading/showing images.
 
-Note: You should sign up on https://unsplash.com/ and get your own API key and replace it on line 15 of script.js with 'YOUR-API-KEY'
+> **Note**: You should sign up on https://unsplash.com/ and get your own API key and replace it on line 15 of script.js with 'YOUR-API-KEY'
 
 I am learning from others and practicing projects to improve my skills and also sharing my experiences with people. I will study and learn more with encouragement I get from you.
 
